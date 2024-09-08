@@ -1,3 +1,15 @@
+//********************************************************
+// fracturing.c
+// Author: Anthony Cazimir
+// UCFID: 5145385
+// Date: 9/8/2024
+// Class: COP 3223, Professor Parra
+// Purpose: The main purpose of this assignment is to
+//  write a program that will house many internal functions.
+// Input: None
+//
+// Output: None
+// //********************************************************
 #include <stdio.h>
 #include <math.h>
 
